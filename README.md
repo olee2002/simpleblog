@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is to give a quick example of Ruby on Rails CRUD functionality.
+Find the deployed app [here] ( https://olee-blog-post.herokuapp.com/)
 
-Things you may want to cover:
+Technolgies used:
 
-* Ruby version
+* Ruby on Rails
 
-* System dependencies
+* Postgresql
 
-* Configuration
+* ERB
 
-* Database creation
+* Bootstrap
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
